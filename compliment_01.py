@@ -1,8 +1,8 @@
 # FILE NAME - compliment_01.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Steven Schreiber 
+# DATE: 2/27/2026
+# BRIEF DESCRIPTION: Asking for a compliment  
 
 
 
@@ -14,7 +14,12 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
+answer = input("Would you like a compliment? ")
 
+if answer == "yes":
+    print("You have wonderful eyes.")
+
+print("Thank you for playing.")
 
 
 
@@ -66,12 +71,12 @@ Thank you for playing.
 '''
 
 1. On a scale of 1 to 10 (where 10 is the hardest), how would you rate this lab?
-
+4
 
 
 
 2. What was the hardest part of this lab?
-
+Getting the output to give a compliment
 
 
 
